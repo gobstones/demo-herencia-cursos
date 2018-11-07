@@ -34,3 +34,7 @@ inherit:
   # -----------------------------------------------------------------
   blocks:
     defaultToolbox: true
+
+  # ⚠⚠⚠ WARNING ⚠⚠⚠
+  # Tener en cuenta que Gobstones Teacher por el momento no soporta cursos.
+  # Guardar un proyecto que use herencia provocará que todos los assets heredadas terminen incorporados al proyecto.
