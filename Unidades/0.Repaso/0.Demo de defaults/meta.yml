@@ -28,5 +28,9 @@ inherit:
     attires:
       - La cena de Dino
       - Lucho enciende las luces
+  # -----------------------------------------------------------------
+  # De acá en adelante se puede poner cualquier fragmento de meta.yml
+  # para complementar cualquier propiedad que no esté definida acá...
+  # -----------------------------------------------------------------
   blocks:
     defaultToolbox: true
