@@ -22,10 +22,11 @@ source:
 name: Lucho enciende las luces
 
 inherit:
-  blocks:
-    defaultToolbox: true
-  assets:
+  $course: rodri042/curso-lpysd2
+  $assets:
     extra: true
     attires:
       - La cena de Dino
       - Lucho enciende las luces
+  blocks:
+    defaultToolbox: true
