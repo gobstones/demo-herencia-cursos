@@ -1,0 +1,15 @@
+blocks:
+  defaultToolbox: |
+    <category name="Comandos comunes">
+        <block type="RepeticionSimple"></block>
+    </category>
+    <category name="Expresiones comunes">
+        <block type="math_number"></block>
+        <block type="DireccionSelector"></block>
+    </category>
+    <category name="Operaciones de Luces" gbs_custom="PRIMITIVE_PROCEDURES">
+    </category>
+    <category name="Mis procedimientos" custom="PROCEDURE_CALLS">  </category>
+    <category name="Definiciones">
+        <block type="procedures_defnoreturnnoparams"></block>
+    </category>

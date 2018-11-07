@@ -1,0 +1,31 @@
+attire:
+  active: Lucho enciende las luces
+  user_permissions:
+    can_toggle_visibility: false
+  visible: true
+board:
+  active: 1
+  initial_board_source: selected
+  user_permissions:
+    can_change_source: false
+    can_edit_board: false
+  visible_edition: false
+execution_speed:
+  active: high
+  user_permissions:
+    can_change_speed: true
+library:
+  visible: false
+source:
+  visible: true
+  percentage: 0.70  
+name: Lucho enciende las luces
+
+inherit:
+  blocks:
+    defaultToolbox: true
+  assets:
+    extra: true
+    attires:
+      - La cena de Dino
+      - Lucho enciende las luces

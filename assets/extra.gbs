@@ -1,0 +1,3 @@
+procedure PonerDosBolitasDelMismoColor(color) {
+  repeat (2) { Poner(color) }
+}
