@@ -22,7 +22,7 @@ source:
 name: Lucho enciende las luces
 
 inherit:
-  $course: rodri042/curso-lpysd2
+  $course: rodri042/curso-lpysd2 # (Opcional) Es para que si abre el proyecto solo le muestre un cartel de "Este ejercicio no te va a andar a menos que estés en el curso tal"
   $assets:
     extra: true
     attires:
