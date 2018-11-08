@@ -1,7 +1,7 @@
 [
   {
     "name":"0.Repaso",
-    "repo":"rodri042/curso-LPYSD2",
+    "repo":"gobstones/demo-herencia-cursos",
     "exercises":[
       {
         "id":"0",
@@ -32,7 +32,7 @@
   },
   {
     "name":"1.Expresiones y funciones",
-    "repo":"rodri042/curso-LPYSD2",
+    "repo":"gobstones/demo-herencia-cursos",
     "exercises":[
       {
         "id":"1",
@@ -93,7 +93,7 @@
   },
   {
     "name":"2.Parámetros y Entrada-Salida",
-    "repo":"rodri042/curso-LPYSD2",
+    "repo":"gobstones/demo-herencia-cursos",
     "exercises":[
       {
         "id":"1.1",
@@ -169,7 +169,7 @@
   },
   {
     "name":"3.Variables y acumuladores",
-    "repo":"rodri042/curso-LPYSD2",
+    "repo":"gobstones/demo-herencia-cursos",
     "exercises":[
       {
         "id":"1",
@@ -210,7 +210,7 @@
   },
   {
     "name":"4.Introducción a listas",
-    "repo":"rodri042/curso-LPYSD2",
+    "repo":"gobstones/demo-herencia-cursos",
     "exercises":[
       {
         "id":"1",
@@ -236,7 +236,7 @@
   },
   {
     "name":"5.Algoritmos sobre listas",
-    "repo":"rodri042/curso-LPYSD2",
+    "repo":"gobstones/demo-herencia-cursos",
     "exercises":[
       {
         "id":"1",
@@ -287,7 +287,7 @@
   },
   {
     "name":"6.Representación de la información",
-    "repo":"rodri042/curso-LPYSD2",
+    "repo":"gobstones/demo-herencia-cursos",
     "exercises":[
       {
         "id":"1",
